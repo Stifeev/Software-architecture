@@ -1,0 +1,9 @@
+Running 30s test @ http://192.168.31.63:8080/person?login=stif
+  2 threads and 2 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    23.38ms  110.12ms 986.88ms   96.40%
+    Req/Sec   303.87     60.36   440.00     79.93%
+  16521 requests in 31.92s, 3.51MB read
+  Socket errors: connect 0, read 0, write 0, timeout 2
+Requests/sec:    517.51
+Transfer/sec:    112.71KB
