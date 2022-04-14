@@ -1,0 +1,10 @@
+/home/stud/arch_labs/LR2/Код/build/CMakeFiles/install/strip.dir
+/home/stud/arch_labs/LR2/Код/build/CMakeFiles/edit_cache.dir
+/home/stud/arch_labs/LR2/Код/build/CMakeFiles/package_source.dir
+/home/stud/arch_labs/LR2/Код/build/CMakeFiles/install.dir
+/home/stud/arch_labs/LR2/Код/build/CMakeFiles/list_install_components.dir
+/home/stud/arch_labs/LR2/Код/build/CMakeFiles/rebuild_cache.dir
+/home/stud/arch_labs/LR2/Код/build/CMakeFiles/package.dir
+/home/stud/arch_labs/LR2/Код/build/CMakeFiles/install/local.dir
+/home/stud/arch_labs/LR2/Код/build/CMakeFiles/tests.exe.dir
+/home/stud/arch_labs/LR2/Код/build/CMakeFiles/server.exe.dir
