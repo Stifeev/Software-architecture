@@ -69,6 +69,6 @@ $ ./tests.exe --ip=<ip вашей машины>
 
 Графики производительности:
 
-![12](https://github.com/Stifeev/Software-architecture/edit/main/ЛР2/benchmark/im1.png?raw=true)
+![12](https://github.com/Stifeev/Software-architecture/blob/main/ЛР2/benchmark/im1.png?raw=true)
 
 ![](benchmark\im2.png)
