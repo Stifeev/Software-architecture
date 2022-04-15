@@ -65,7 +65,7 @@ $ ./tests.exe --ip=<ip вашей машины>
 - GET http://192.168.31.83:8080/index.html
 - GET http://192.168.31.83:8080/person?login=stif
 - GET http://192.168.31.83:8080/person?first_name=E%25&last_name=%25v
-- POST http://192.168.31.83:8080/person?add&login=pup&first_name=Vasya&last_name=Pupkin&age=30
+- POST http://192.168.31.83:8080/person?login=pup&first_name=Vasya&last_name=Pupkin&age=30
 
 Графики производительности:
 
