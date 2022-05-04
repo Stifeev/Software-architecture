@@ -33,11 +33,11 @@ $ ./server.exe --ip=<ip вашей машины>            \
                --database=<имя БД>               \
                --cache_servers=<адрес и порт кеш-сервера>  \
 # Пример:
-# $ ./server.exe --ip=192.168.31.63                                     
-#                --login=stud  
-#                --password=stud  
-#                --sql_port=3306                 
-#                --database=Humanity
+# $ ./server.exe --ip=192.168.31.63              \
+#                --login=stud                    \
+#                --password=stud                 \
+#                --sql_port=3306                 \
+#                --database=Humanity             \
 #                --cache_servers=127.0.0.1:10800,127.0.0.1:10900 
 ```
 
