@@ -2,9 +2,9 @@
 #include "defs.hpp"
 
 /*
- * Запуск тестов: $ build/tests.exe --ip=<ip вашей машины>
+ * Запуск тестов: $ build/tests.exe <args>
  * Внимание!
- * Прежде, чем запускать тесты, запустите сервер командой $ build/server.exe --ip=<ip вашей машины>
+ * Прежде, чем запускать тесты, запустите сервер
 */
 
 void add_person(Person person)
