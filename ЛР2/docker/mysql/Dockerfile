@@ -1,6 +1,6 @@
 FROM mysql:5.7.30
 
-# Add public key in order to download mysql-tools
+# Add public key in order to download mysql-tools (may change over time)
 RUN apt-key adv --keyserver pgp.mit.edu --recv-keys 467B942D3A79BD29
 
 # Update and clean apt cache
