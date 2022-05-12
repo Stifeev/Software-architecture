@@ -65,13 +65,13 @@ $ ./writer.exe   --login=<login2database>       \
 # Пример:
 # $./writer.exe   --login=stud                   \
 #                 --password=stud                \
-#				  --sql_port=3306                \
-#				  --database=Humanity            \
-#				  --read=127.0.0.1               \
-#				  --write=127.0.0.1              \
-#				  --queue=127.0.0.1:9092         \
-#			      --topic=event_server           \
-#				  --group_id=0 
+#                 --sql_port=3306                \
+#                 --database=Humanity            \
+#                 --read=127.0.0.1               \
+#                 --write=127.0.0.1              \
+#                 --queue=127.0.0.1:9092         \
+#                 --topic=event_server           \
+#                 --group_id=0 
 ```
 
 Шаг 4: запуск тестов (с другой консоли)
