@@ -1,4 +1,4 @@
-FROM mariadb:2.3.0
+FROM mariadb
 
 # Update and clean apt cache
 RUN apt-get clean && apt-get update --fix-missing && \
